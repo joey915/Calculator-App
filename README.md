@@ -1,3 +1,3 @@
 # Calculator-App
 
-Web technology calculator project
+Web calculator project
